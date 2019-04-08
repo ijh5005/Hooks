@@ -1,0 +1,25 @@
+body {
+  background-color: #bada55;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+p,
+button {
+  font-size: 6em;
+  color: #fff;
+  text-align: center;
+  margin-top: 20vh;
+  font-weight: 700;
+  font-family: monospace;
+  user-select: none;
+}
+
+button {
+  background-color: #5d770a;
+}

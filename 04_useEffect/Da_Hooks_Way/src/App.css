@@ -1,0 +1,19 @@
+p {
+  font-size: 6em;
+  color: #fff;
+  text-align: center;
+  margin-top: 20vh;
+  opacity: 0.4;
+  font-weight: 700;
+  font-family: monospace;
+  user-select: none;
+}
+
+#clock {
+  margin: 0 auto;
+  width: 18em;
+}
+
+img {
+  width: 18em;
+}
